@@ -23,10 +23,10 @@
 		<dc:subject id="subject-2">Oceania -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Geographical myths -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Botanists -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/765</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/765</meta>
-		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/765</meta>
-		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/765</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/765</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/765</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/765</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/765</meta>
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
@@ -35,7 +35,8 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/765</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/765</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/007667111</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Moon_Pool</meta>
@@ -159,5 +160,4 @@
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
-
 </package>
