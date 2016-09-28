@@ -29,3 +29,21 @@ footer .signature{
 [epub|type~="z3998:song"] br{
 	display: none;
 }
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+[epub|type~="dedication"] p{
+	margin: auto;
+	margin-top: 3em;
+	text-align: center;
+	text-indent: 0;
+	max-width: 75%;
+}
+
+[epub|type~="dedication"] b{
+	font-variant: small-caps;
+	font-weight: normal;
+}
