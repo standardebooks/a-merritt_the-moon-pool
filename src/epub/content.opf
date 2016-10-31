@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/abraham-merritt/the-moon-pool</dc:identifier>
 		<dc:date>2016-09-30T22:24:23Z</dc:date>
-		<meta property="dcterms:modified">2016-10-27T17:28:25Z</meta>
+		<meta property="dcterms:modified">2016-10-31T19:49:35Z</meta>
 		<meta property="se:edition-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -31,9 +31,9 @@
 		<dc:description id="description">A group of adventurers search for their friends, who were lost while exploring the otherworldly secrets of a monument discovered on a chain of island ruins.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Moon Pool&lt;/i&gt;, in novel form, is a combination and fix-up of two previously-published short stories: &amp;ldquo;The Moon Pool,&amp;rdquo; and &amp;ldquo;Conquest of the Moon Pool.&amp;rdquo;  Initially serialized in &lt;i&gt;All-Story Weekly&lt;/i&gt;, Merritt made the interesting choice of framing the novel as a sort of scientific retelling, going so far as to include footnotes from fictional scientists, to give this completely fantastic work an air of authenticity.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Moon Pool&lt;/i&gt;, in novel form, is a combination and fix-up of two previously-published short stories: “The Moon Pool,” and “Conquest of the Moon Pool.”  Initially serialized in &lt;i&gt;All-Story Weekly&lt;/i&gt;, Merritt made the interesting choice of framing the novel as a sort of scientific retelling, going so far as to include footnotes from fictional scientists, to give this completely fantastic work an air of authenticity.&lt;/p&gt;
 			&lt;p&gt;In it we find the adventuresome botanist William T. Goodwin embarking on a quest to help his friend Throckmortin, whose wife and friends have fallen victim to a mysterious temple ruin on a remote South Pacific island.  A series of coincidences provides Goodwin with a colorful cast of accompanying adventurers, and they soon find themselves in a mysterious futuristic underworld.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Moon Pool&lt;/i&gt; is an important entry in the Lost World genre, in no small part because it was a significant influence on H. P. Lovecraft&amp;mdash;hints of &lt;i&gt;Moon Pool&lt;/i&gt; can be seen in his short story &amp;ldquo;The Call of Cthulhu,&amp;rdquo; and hints of Merritt&amp;rsquo;s Nan-Madol can be seen in Lovecraft&amp;rsquo;s R&amp;rsquo;lyeh.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Moon Pool&lt;/i&gt; is an important entry in the Lost World genre, in no small part because it was a significant influence on H. P. Lovecraft—hints of &lt;i&gt;Moon Pool&lt;/i&gt; can be seen in his short story “The Call of Cthulhu,” and hints of Merritt’s Nan-Madol can be seen in Lovecraft’s R’lyeh.&lt;/p&gt;
 			&lt;p&gt;Today, &lt;i&gt;The Moon Pool&lt;/i&gt; is a pulp classic, featuring many of the themes, tropes, and archetypes that characterized so many of the pulp adventure works of the era.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
