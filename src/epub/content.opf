@@ -52,8 +52,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/765</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007667111</dc:source>
-		<meta property="se:word-count">98708</meta>
-		<meta property="se:reading-ease.flesch">72.05</meta>
+		<meta property="se:word-count">98720</meta>
+		<meta property="se:reading-ease.flesch">71.95</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Moon_Pool</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/abraham-merritt_the-moon-pool</meta>
 		<dc:creator id="author">Abraham Merritt</dc:creator>
