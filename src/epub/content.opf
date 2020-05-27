@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/abraham-merritt/the-moon-pool</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/a-merritt/the-moon-pool</dc:identifier>
 		<dc:date>2016-09-30T22:24:23Z</dc:date>
 		<meta property="dcterms:modified">2016-09-30T22:24:23Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -44,7 +44,7 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A group of adventurers search for their friends, who were lost while exploring the otherworldly secrets of a monument discovered on a chain of island ruins.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Moon Pool&lt;/i&gt;, in novel form, is a combination and fix-up of two previously-published short stories: “The Moon Pool,” and “Conquest of the Moon Pool.” Initially serialized in &lt;i&gt;All-Story Weekly&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/abraham-merritt"&gt;Merritt&lt;/a&gt; made the interesting choice of framing the novel as a sort of scientific retelling, going so far as to include footnotes from fictional scientists, to give this completely fantastic work an air of authenticity.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Moon Pool&lt;/i&gt;, in novel form, is a combination and fix-up of two previously-published short stories: “The Moon Pool,” and “Conquest of the Moon Pool.” Initially serialized in &lt;i&gt;All-Story Weekly&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/a-merritt"&gt;Merritt&lt;/a&gt; made the interesting choice of framing the novel as a sort of scientific retelling, going so far as to include footnotes from fictional scientists, to give this completely fantastic work an air of authenticity.&lt;/p&gt;
 			&lt;p&gt;In it we find the adventuresome botanist William T. Goodwin embarking on a quest to help his friend Throckmortin, whose wife and friends have fallen victim to a mysterious temple ruin on a remote South Pacific island. A series of coincidences provides Goodwin with a colorful cast of accompanying adventurers, and they soon find themselves in a mysterious futuristic underworld.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Moon Pool&lt;/i&gt; is an important entry in the Lost World genre, in no small part because it was a significant influence on &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;&lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft&lt;/a&gt;—hints of &lt;i&gt;Moon Pool&lt;/i&gt; can be seen in his short story “The Call of Cthulhu,” and hints of Merritt’s Nan-Madol can be seen in Lovecraft’s R’lyeh.&lt;/p&gt;
 			&lt;p&gt;Today, &lt;i&gt;The Moon Pool&lt;/i&gt; is a pulp classic, featuring many of the themes, tropes, and archetypes that characterized so many of the pulp adventure works of the era.&lt;/p&gt;
@@ -55,9 +55,9 @@
 		<meta property="se:word-count">98720</meta>
 		<meta property="se:reading-ease.flesch">71.95</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Moon_Pool</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/abraham-merritt_the-moon-pool</meta>
-		<dc:creator id="author">Abraham Merritt</dc:creator>
-		<meta property="file-as" refines="#author">Merritt, Abraham</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/a-merritt_the-moon-pool</meta>
+		<dc:creator id="author">A. Merritt</dc:creator>
+		<meta property="file-as" refines="#author">Merritt, A.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Abraham Grace Merritt</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/A._Merritt</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50036727</meta>
