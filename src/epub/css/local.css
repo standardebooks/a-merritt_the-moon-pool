@@ -25,11 +25,6 @@ footer .signature{
 	display: none;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="dedication"] p{
 	margin: auto;
 	margin-top: 3em;
