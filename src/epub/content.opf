@@ -61,8 +61,8 @@
 		<meta property="se:name.person.full-name" refines="#author">Abraham Grace Merritt</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/A._Merritt</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50036727</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">Ralph Albert Blakelock</dc:contributor>
 		<meta property="file-as" refines="#artist">Blakelock, Ralph Albert</meta>
